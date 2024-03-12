@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Deepansh Vishwakarma</h1>
 <h3 align="center">I am 2nd Year B.Tech UnderGrad.💻 My coding journey began with a love for problem-solving and a fascination with technology. I enjoy turning ideas into reality through clean, efficient code.</h3>
 <img align ="right" alt="Coding" width="400 " src = "https://cdn.dribbble.com/users/2401720/screenshots/4913912/character_programmer_1-100.jpg">
