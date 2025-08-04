@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebydeep&label=Profile%20views&color=0e75b6&style=flat" alt="codebydeep" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in Java, ReactJS**
+- 💻 I’m a **Full Stack Web Developer** skilled in building scalable web applications.
 
 - 💬 Ask me about **DSA & Web development**
 
